@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+button{
+    border-color: transparent;
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+
+    
+}
+
+.tur{
+    max-width: 500px;
+    margin: auto;
+
+}
+
+.tur img{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    object-fit: cover;
+
+}
+
+.tursil{
+    display: flex;
+justify-content: center;
+}
+
+.tursil button{
+background-color: white;
+border-color: red;
+}
